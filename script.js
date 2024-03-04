@@ -51,6 +51,7 @@ function resizeGrid(){
         }
         handleMouseOver()
         borderToggle()
+        clear()
 
     })
 }
